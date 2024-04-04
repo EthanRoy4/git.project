@@ -6,9 +6,10 @@ public class MyGitProject1 {
 		System.out.println("print my project");
 	}
     
-	public void print() {
-		String name;
-		System.out.println("This is my project");
+	public String names(String name, String address) {
+		return  name = "Sunil";
+		
+		
 		
 	}
 	
